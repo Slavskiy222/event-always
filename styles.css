@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(22, 177, 204)
+}
+p {
+    color: rgb(255, 255, 255);
+}
+header {
+    text-align: center; }
+    h1 {
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    #p1 {
+        font-size: 18px;
+    }
+    #contact {
+        text-align:right
+    }
+   table {
+    margin: 0 auto;
+}
+main img {
+    display: block;
+    width: calc(100% - 30px);
+    height: auto;
+    margin: 0 auto;
+}
+#p2 {
+    font-size: 18px;
+}
+#Présentation {
+    text-align: left;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+#Présentation,
+#contact {
+    margin: 0;
+}
+table {
+    color:aliceblue
+}
